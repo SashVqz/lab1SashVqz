@@ -1,0 +1,10 @@
+__pycache__/
+*.py[codz]
+.venv/
+.vscode/
+.DS_Store
+
+/data
+/cache
+/outputs
+/models
